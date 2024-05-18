@@ -18,7 +18,7 @@ This Google Apps Script listens for changes in a specified Google Sheets documen
 
 1. Open your Google Sheets document.
 2. Click on `Extensions` > `Apps Script`.
-3. Delete any code in the script editor and paste in the [following code](https://github.com/ItsNyoty/Spreadsheets-Discord-Webhook-Sender/blob/main/code.gs)
+3. Delete any code in the script editor and paste in the [following code](https://github.com/ItsNyoty/Spreadsheets-to-Discord-Webhook-Integration/blob/main/code.gs)
 4. Replace `'INSERT YOURWEBHOOK'` with your actual Discord webhook URL.
 5. Replace `'YOUR SHEETNAME'` with the sheet you want to log.
 6. Save the script.
